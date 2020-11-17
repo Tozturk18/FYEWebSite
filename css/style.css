@@ -100,3 +100,19 @@ body {
 .zoomTwo:hover {
     content:  url("../img/pakistanZoomIn.png");
 }
+
+.zoomThree {
+    transition: content 0.ss; /* Animation */
+}
+  
+.zoomThree:hover {
+    content:  url("../img/kashgarZoomIn.png");
+}
+
+.zoomFour {
+    transition: content 0.ss; /* Animation */
+}
+  
+.zoomFour:hover {
+    content:  url("../img/pamirMountains.png");
+}
