@@ -85,8 +85,18 @@ body {
     padding-bottom:1em;
 }
 
+.center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    border-radius: 5%;
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
 .zoomOne {
-  transition: content 0.ss; /* Animation */
+  transition: content 0.2s; /* Animation */
 }
 
 .zoomOne:hover {
@@ -94,7 +104,7 @@ body {
 }
 
 .zoomTwo {
-  transition: content 0.ss; /* Animation */
+  transition: content 0.2s; /* Animation */
 }
 
 .zoomTwo:hover {
@@ -102,7 +112,7 @@ body {
 }
 
 .zoomThree {
-    transition: content 0.ss; /* Animation */
+    transition: content 0.2s; /* Animation */
 }
   
 .zoomThree:hover {
@@ -110,7 +120,7 @@ body {
 }
 
 .zoomFour {
-    transition: content 0.ss; /* Animation */
+    transition: content 0.2s; /* Animation */
 }
   
 .zoomFour:hover {
