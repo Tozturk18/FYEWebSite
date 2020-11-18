@@ -65,7 +65,7 @@ body {
 }
 
 
-.intro {
+.box {
 
     background: linear-gradient(135deg, transparent 20px, rgb(27, 46, 46) 20px);
     
@@ -125,4 +125,12 @@ body {
   
 .zoomFour:hover {
     content:  url("../img/pamirMountains.png");
+}
+
+.zoomFive {
+    transition: content 0.2s; /* Animation */
+}
+  
+.zoomFive:hover {
+    content:  url("../img/kashmirZoomIn.png");
 }
